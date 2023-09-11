@@ -1,88 +1,57 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
-  jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  name: "Cristian Davila",
+  jobDescription: "Software Developer",
+  about: `Software developer with a demonstrated history of working in the industry. Skilled in Front-end Development and Python environments with an ERP.
+   Also gained knowledge in Databases, UI/UX design, web performance and metrics.
+   Convinced that teamwork is one of the keys of successful.
+   Continuously and never stop exploring new technologies.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "Garsaco Import S.L.",
+      location: "Betxí, Castellón, Comunidad Valenciana, Spain",
+      startDate: "June 2022",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- In Charge of the ERP called Odoo.",
+        "- Develop new modules and customizing the existing ones to facilite coworkers experience.",
+        "- Creating reports to measure performance and improve them.",
+        "- Fixing UI and UX issues and creating websites of the company.",
+        "- Training tech coworkers to use and develop in Odoo.",
       ],
+    },
+    {
+      name: "Freelance",
+      location: "Internet",
+      startDate: "November 2021",
+      endDate: "May 2022",
+      description: [
+        "- Fixing UI/UX issues from websites.",
+        "- Redesign websites depend on the client needs.",
+      ],
+    }
+    ,
+    {
+      name: "Facturadito",
+      location: "Lima, Perú",
+      startDate: "October 2020",
+      endDate: "July 2021",
+      description: [
+        " - Develop from scratch an ERP integrated with tax system of the country.",
+        " - UI/UX designed on Adobe XD.",
+        " - Specify new features and functionalities.",
+      ]
     },
 
-    {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
-      description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
-      ],
-    },
-
-    {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
-      ],
-    },
-  ],
-
-  education: [
-    {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
-      description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
-      ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
-    },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    // twitter: "https://twitter.com/CristianAbilioD",
+    github: "https://github.com/cristiand395",
+    email: "cristiand395@gmail.com",
+    linkedin: "https://www.linkedin.com/in/cristiand395/",
   },
 
   projects: [
